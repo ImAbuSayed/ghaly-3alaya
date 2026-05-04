@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> غالي عليا، نور عيوني
+> في ظلام الليل، إنت سكوني
+> روحي تنادي، قلبي معاك
+> مستني لحظة، أعيش في هواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
