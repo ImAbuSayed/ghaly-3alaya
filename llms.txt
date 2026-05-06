@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Ghaly 3alaya |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghaly-3alaya/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Ghaly 3alaya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
