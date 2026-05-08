@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghaly 3alaya
+
+This log tracks the cryptographic history and versioning for the song **Ghaly 3alaya** (ghaly-3alaya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:25:36.449295 | `v1` | `77bfd6553c4f407bac3eb116e8a2185ca7e680d284ad63bcdc660c6715a004b7` | `43f17f6eb6be0a4c72167aa78b9be62c3aede6385f610018392562a86e83ba6f` | `2026-05-08_ghaly-3alaya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
